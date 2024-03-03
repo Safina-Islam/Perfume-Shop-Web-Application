@@ -77,3 +77,29 @@ body {
       width: 1350px;
   }
 }
+.box2{
+    color: #ebac79;
+    h1{
+        font-size: 40px;
+        margin-top: 40px;
+        margin-left: 400px;
+    }
+    p{
+        margin-left: 80px;
+        margin-right: 80px;
+        margin-bottom: 80px;
+        font-size: 20px;
+        text-align: center;
+    }
+
+    img{
+        height: 450Px;
+        width: 300px;
+        margin-left: 500px;
+    }
+    h4{
+        margin-left: 550px;
+        font-size: 30px;
+        margin-top: 0%;
+    }
+  }
