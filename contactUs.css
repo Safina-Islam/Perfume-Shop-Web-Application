@@ -79,3 +79,71 @@ body {
         width: 1360px;
     }
   }
+
+  .container2{
+    display: grid ; 
+    grid-template-columns: 4fr 4fr ;
+    margin-top: 20px;
+   
+    
+    .box2{
+
+       h1{
+        font-size: 30px;
+        margin-left: 50px;
+       } 
+    .hl{
+        
+            width: 220px;
+            height: 5px;
+            background-color: #773b12;
+            margin-left: 40px;
+    }
+    
+    p{
+        font-size: 20px;
+        margin-left: 20px;
+    }
+    }
+    .inputBox {
+        width: 550px;
+        height: 100px;
+        display: flex;
+        flex-direction: column;  
+        margin-left: 20px;
+      }
+  input,
+  button {
+    font-size: 1em;
+    padding: 1em;
+    width: 100%;
+    border-radius: 5px;
+    margin-bottom: 5px;
+  }
+  button {
+    background-color: #0c0c0c;
+    color: #ffffff;
+  }
+
+  .box3{
+    
+    h1{
+        font-size: 30px;
+        margin-left: 50px;
+       } 
+    .hl{
+        
+            width: 220px;
+            height: 5px;
+            background-color: #773b12;
+            margin-left: 60px;
+    }
+    p{
+        font-size: 20px;
+        margin-left: 50px;
+    }
+    
+    }
+   
+   
+}
